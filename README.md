@@ -20,9 +20,11 @@ The goals of the workshop are:
 * To learn how to leverage in vitro dissolution data for virtual bioequivalence trials
 
 ### Workshop faculty:
-Marylore Chenel, Ph.D.
-Erik Sjögren, Assoc. Prof, Ph.D.
-Tobias Kanacher. Ph.D.
+* Marylore Chenel, Ph.D. 
+
+* Erik Sjögren, Assoc. Prof, Ph.D. 
+
+* Tobias Kanacher. Ph.D. 
  
 ### More information and registration:
 https://pharmetheus.com/2022_june_pbpk_page_workshop/
