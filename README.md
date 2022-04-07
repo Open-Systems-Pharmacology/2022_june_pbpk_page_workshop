@@ -27,10 +27,7 @@ Tobias Kanacher. Ph.D.
 ### More information and registration:
 https://pharmetheus.com/2022_june_pbpk_page_workshop/
 
-
-
-
-
+&nbsp;
 
 We look forward to seeing many of you there and to engage with you on these exciting topics!
 
